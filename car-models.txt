@@ -1,0 +1,7 @@
+T=Prius
+H=Civic
+F=F-150
+N=Rogue
+B=7-Series
+M=Class-C
+V=Bug
